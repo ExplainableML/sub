@@ -24,6 +24,8 @@ To assess the robustness of CBMs to concept variations, we introduce SUB: a fine
 </div>
 
 ---
+### Dataset
+SUB is available at https://huggingface.co/datasets/Jessica-bader/SUB.
 ### Code
 Code will be available soon
 ### Citation
