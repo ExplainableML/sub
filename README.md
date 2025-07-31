@@ -27,7 +27,13 @@ To assess the robustness of CBMs to concept variations, we introduce SUB: a fine
 ### Dataset
 SUB is available at https://huggingface.co/datasets/Jessica-bader/SUB.
 ### Code
-Code will be available soon
+
+Tied Diffusion Guidance (TDG) can be tested with tied_diffusion_guidance_demo.py, by specifying --prompt1 and --prompt2. For example:
+```
+python tied_diffusion_guidance_demo.py --prompt1 "a blue jay with a yellow crown" --prompt2 "a bird with a yellow crown"
+```
+
+Code for evaluating pre-trained CBMs on SUB we be available shortly.
 ### Citation
 ```bibtex
 @article{bader2025sub,
