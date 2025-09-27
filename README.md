@@ -9,7 +9,7 @@
 <br>
 <br>
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/TODO)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2507.23784)
 </div>
 
 <h3 align="center">Abstract</h3>
