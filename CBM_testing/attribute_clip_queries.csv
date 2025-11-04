@@ -1,0 +1,313 @@
+attribute,value
+has_bill_shape::curved_(up_or_down),A bird with a curved (up or down) bill shape
+has_bill_shape::dagger,A bird with a dagger-shaped bill
+has_bill_shape::hooked,A bird with a hooked bill shape
+has_bill_shape::needle,A bird with a needle-shaped bill
+has_bill_shape::hooked_seabird,A bird with a hooked bill shape typical of seabirds
+has_bill_shape::spatulate,A bird with a spatulate-shaped bill
+has_bill_shape::all-purpose,A bird with an all-purpose-shaped bill
+has_bill_shape::cone,A bird with a cone-shaped bill
+has_bill_shape::specialized,A bird with a specialized bill shape
+has_wing_color::blue,A bird with blue wings
+has_wing_color::brown,A bird with brown wings
+has_wing_color::iridescent,A bird with iridescent wings
+has_wing_color::purple,A bird with purple wings
+has_wing_color::rufous,A bird with rufous wings
+has_wing_color::grey,A bird with grey wings
+has_wing_color::yellow,A bird with yellow wings
+has_wing_color::olive,A bird with olive wings
+has_wing_color::green,A bird with green wings
+has_wing_color::pink,A bird with pink wings
+has_wing_color::orange,A bird with orange wings
+has_wing_color::black,A bird with black wings
+has_wing_color::white,A bird with white wings
+has_wing_color::red,A bird with red wings
+has_wing_color::buff,A bird with buff-colored wings
+has_upperparts_color::blue,A bird with blue upperparts
+has_upperparts_color::brown,A bird with brown upperparts
+has_upperparts_color::iridescent,A bird with iridescent upperparts
+has_upperparts_color::purple,A bird with purple upperparts
+has_upperparts_color::rufous,A bird with rufous upperparts
+has_upperparts_color::grey,A bird with grey upperparts
+has_upperparts_color::yellow,A bird with yellow upperparts
+has_upperparts_color::olive,A bird with olive upperparts
+has_upperparts_color::green,A bird with green upperparts
+has_upperparts_color::pink,A bird with pink upperparts
+has_upperparts_color::orange,A bird with orange upperparts
+has_upperparts_color::black,A bird with black upperparts
+has_upperparts_color::white,A bird with white upperparts
+has_upperparts_color::red,A bird with red upperparts
+has_upperparts_color::buff,A bird with buff upperparts
+has_underparts_color::blue,A bird with blue underparts
+has_underparts_color::brown,A bird with brown underparts
+has_underparts_color::iridescent,A bird with iridescent underparts
+has_underparts_color::purple,A bird with purple underparts
+has_underparts_color::rufous,A bird with rufous underparts
+has_underparts_color::grey,A bird with grey underparts
+has_underparts_color::yellow,A bird with yellow underparts
+has_underparts_color::olive,A bird with olive underparts color
+has_underparts_color::green,A bird with green underparts
+has_underparts_color::pink,A bird with pink underparts
+has_underparts_color::orange,A bird with orange underparts
+has_underparts_color::black,A bird with black underparts
+has_underparts_color::white,A bird with white underparts
+has_underparts_color::red,A bird with red underparts
+has_underparts_color::buff,A bird with buff underparts
+has_breast_pattern::solid,A bird with a solid breast pattern
+has_breast_pattern::spotted,A bird with a spotted breast pattern
+has_breast_pattern::striped,A bird with a striped breast pattern
+has_breast_pattern::multi-colored,A bird with a multi-colored breast pattern
+has_back_color::blue,A bird with a blue back color
+has_back_color::brown,A bird with a brown back color
+has_back_color::iridescent,A bird with an iridescent back color
+has_back_color::purple,A bird with a purple back color
+has_back_color::rufous,A bird with a rufous back color
+has_back_color::grey,A bird with a grey back color
+has_back_color::yellow,A bird with a yellow back color
+has_back_color::olive,A bird with an olive back color
+has_back_color::green,A bird with a green back
+has_back_color::pink,A bird with a pink back color
+has_back_color::orange,A bird with an orange back color
+has_back_color::black,A bird with a black back color
+has_back_color::white,A bird with a white back color
+has_back_color::red,A bird with a red back color
+has_back_color::buff,A bird with a buff back color
+has_tail_shape::forked_tail,A bird with a forked tail
+has_tail_shape::rounded_tail,A bird with a rounded tail
+has_tail_shape::notched_tail,A bird with a notched tail
+has_tail_shape::fan-shaped_tail,A bird with a fan-shaped tail
+has_tail_shape::pointed_tail,A bird with a pointed tail
+has_tail_shape::squared_tail,A bird with a squared tail
+has_upper_tail_color::blue,A bird with a blue upper tail color
+has_upper_tail_color::brown,A bird with a brown upper tail color
+has_upper_tail_color::iridescent,A bird with an iridescent upper tail color
+has_upper_tail_color::purple,A bird with a purple upper tail color
+has_upper_tail_color::rufous,A bird with a rufous upper tail color
+has_upper_tail_color::grey,A bird with a grey upper tail color
+has_upper_tail_color::yellow,A bird with a yellow upper tail color
+has_upper_tail_color::olive,A bird with an olive upper tail color
+has_upper_tail_color::green,A bird with a green upper tail color
+has_upper_tail_color::pink,A bird with a pink upper tail color
+has_upper_tail_color::orange,A bird with an orange upper tail color
+has_upper_tail_color::black,A bird with a black upper tail color
+has_upper_tail_color::white,A bird with a white upper tail color
+has_upper_tail_color::red,A bird with a red upper tail color
+has_upper_tail_color::buff,A bird with a buff upper tail color
+has_head_pattern::spotted,A bird with a spotted head pattern
+has_head_pattern::malar,A bird with a malar pattern on its head
+has_head_pattern::crested,A bird with a crested head pattern
+has_head_pattern::masked,A bird with a masked head pattern
+has_head_pattern::unique_pattern,A bird with a unique head pattern
+has_head_pattern::eyebrow,A bird with an eyebrow-like head pattern
+has_head_pattern::eyering,A bird with an eyering head pattern
+has_head_pattern::plain,A bird with a plain head pattern
+has_head_pattern::eyeline,A bird with an eyeline head pattern
+has_head_pattern::striped,A bird with a striped head pattern
+has_head_pattern::capped,A bird with a capped head pattern
+has_breast_color::blue,A bird with a blue breast color
+has_breast_color::brown,A bird with a brown breast color
+has_breast_color::iridescent,A bird with an iridescent breast color
+has_breast_color::purple,A bird with a purple breast color
+has_breast_color::rufous,A bird with a rufous breast color
+has_breast_color::grey,A bird with a grey breast color
+has_breast_color::yellow,A bird with a yellow breast color
+has_breast_color::olive,A bird with an olive breast color
+has_breast_color::green,A bird with a green breast color
+has_breast_color::pink,A bird with a pink breast color
+has_breast_color::orange,A bird with an orange breast color
+has_breast_color::black,A bird with a black breast color
+has_breast_color::white,A bird with a white breast color
+has_breast_color::red,A bird with a red breast color
+has_breast_color::buff,A bird with a buff breast color
+has_throat_color::blue,A bird with a blue throat color
+has_throat_color::brown,A bird with a brown throat color
+has_throat_color::iridescent,A bird with an iridescent throat color
+has_throat_color::purple,A bird with a purple throat color
+has_throat_color::rufous,A bird with a rufous throat color
+has_throat_color::grey,A bird with a grey throat color
+has_throat_color::yellow,A bird with a yellow throat
+has_throat_color::olive,A bird with an olive throat color
+has_throat_color::green,A bird with a green throat
+has_throat_color::pink,A bird with a pink throat
+has_throat_color::orange,A bird with an orange throat
+has_throat_color::black,A bird with a black throat color
+has_throat_color::white,A bird with a white throat
+has_throat_color::red,A bird with a red throat color
+has_throat_color::buff,A bird with a buff throat color
+has_eye_color::blue,A bird with blue eye color
+has_eye_color::brown,A bird with brown eye color
+has_eye_color::purple,A bird with purple eyes
+has_eye_color::rufous,A bird with rufous eye color
+has_eye_color::grey,A bird with grey eyes
+has_eye_color::yellow,A bird with yellow eyes
+has_eye_color::olive,A bird with olive eye color
+has_eye_color::green,A bird with green eyes
+has_eye_color::pink,A bird with pink eye color
+has_eye_color::orange,A bird with orange eyes
+has_eye_color::black,A bird with black eye color
+has_eye_color::white,A bird with white eye color
+has_eye_color::red,A bird with red eyes
+has_eye_color::buff,A bird with a buff eye color
+has_bill_length::about_the_same_as_head,A bird with a bill length about the same as its head
+has_bill_length::longer_than_head,A bird with a longer bill than its head
+has_bill_length::shorter_than_head,A bird with a bill shorter than its head
+has_forehead_color::blue,A bird with a blue forehead color
+has_forehead_color::brown,A bird with a brown forehead
+has_forehead_color::iridescent,A bird with an iridescent forehead color
+has_forehead_color::purple,A bird with a purple forehead
+has_forehead_color::rufous,A bird with a rufous forehead color
+has_forehead_color::grey,A bird with a grey forehead
+has_forehead_color::yellow,A bird with a yellow forehead
+has_forehead_color::olive,A bird with an olive-colored forehead
+has_forehead_color::green,A bird with a green forehead
+has_forehead_color::pink,A bird with a pink forehead
+has_forehead_color::orange,A bird with an orange forehead
+has_forehead_color::black,A bird with a black forehead
+has_forehead_color::white,A bird with a white forehead
+has_forehead_color::red,A bird with a red forehead color
+has_forehead_color::buff,A bird with a buff-colored forehead
+has_under_tail_color::blue,A bird with a blue under-tail color
+has_under_tail_color::brown,A bird with a brown under-tail color
+has_under_tail_color::iridescent,A bird with an iridescent under-tail color
+has_under_tail_color::purple,A bird with a purple under-tail color
+has_under_tail_color::rufous,A bird with a rufous under-tail color
+has_under_tail_color::grey,A bird with a grey under-tail color
+has_under_tail_color::yellow,A bird with a yellow under-tail color
+has_under_tail_color::olive,A bird with an olive under-tail color
+has_under_tail_color::green,A bird with a green under-tail color
+has_under_tail_color::pink,A bird with a pink under-tail color
+has_under_tail_color::orange,A bird with an orange under-tail color
+has_under_tail_color::black,A bird with a black under-tail color
+has_under_tail_color::white,A bird with a white under-tail color
+has_under_tail_color::red,A bird with a red under-tail color
+has_under_tail_color::buff,A bird with a buff under-tail color
+has_nape_color::blue,A bird with a blue nape color
+has_nape_color::brown,A bird with a brown nape color
+has_nape_color::iridescent,A bird with an iridescent nape color
+has_nape_color::purple,A bird with a purple nape color
+has_nape_color::rufous,A bird with a rufous nape color
+has_nape_color::grey,A bird with a grey nape color
+has_nape_color::yellow,A bird with a yellow nape color
+has_nape_color::olive,A bird with an olive nape color
+has_nape_color::green,A bird with a green nape color
+has_nape_color::pink,A bird with a pink nape color
+has_nape_color::orange,A bird with an orange nape color
+has_nape_color::black,A bird with a black nape color
+has_nape_color::white,A bird with a white nape color
+has_nape_color::red,A bird with a red nape color
+has_nape_color::buff,A bird with a buff-colored nape
+has_belly_color::blue,A bird with a blue belly color
+has_belly_color::brown,A bird with a brown belly color
+has_belly_color::iridescent,A bird with an iridescent belly color
+has_belly_color::purple,A bird with a purple belly color
+has_belly_color::rufous,A bird with a rufous belly color
+has_belly_color::grey,A bird with a grey belly color
+has_belly_color::yellow,A bird with a yellow belly color
+has_belly_color::olive,A bird with an olive belly color
+has_belly_color::green,A bird with a green belly color
+has_belly_color::pink,A bird with a pink belly color
+has_belly_color::orange,A bird with an orange belly color
+has_belly_color::black,A bird with a black belly color
+has_belly_color::white,A bird with a white belly color
+has_belly_color::red,A bird with a red belly color
+has_belly_color::buff,A bird with a buff belly color
+has_wing_shape::rounded-wings,A bird with rounded wings
+has_wing_shape::pointed-wings,A bird with pointed wings
+has_wing_shape::broad-wings,A bird with broad wings
+has_wing_shape::tapered-wings,A bird with tapered wings
+has_wing_shape::long-wings,A bird with long wings
+has_size::large_(16_-_32_in),A bird that is large (16-32 inches)
+has_size::small_(5_-_9_in),A bird that is small (5-9 inches)
+has_size::very_large_(32_-_72_in),A bird that is very large (32-72 inches)
+has_size::medium_(9_-_16_in),A bird that is medium-sized (9-16 inches)
+has_size::very_small_(3_-_5_in),A bird that is very small (3-5 inches)
+has_shape::upright-perching_water-like,"A bird with an upright-perching, water-like shape"
+has_shape::chicken-like-marsh,"A bird with a chicken-like, marsh-adapted shape"
+has_shape::long-legged-like,A bird with a long-legged-like shape
+has_shape::duck-like,A bird with a duck-like shape
+has_shape::owl-like,A bird with an owl-like shape
+has_shape::gull-like,A bird with a gull-like shape
+has_shape::hummingbird-like,A bird with a hummingbird-like shape
+has_shape::pigeon-like,A bird with a pigeon-like shape
+has_shape::tree-clinging-like,A bird with a tree-clinging-like shape
+has_shape::hawk-like,A bird with a hawk-like shape
+has_shape::sandpiper-like,A bird with a sandpiper-like shape
+has_shape::upland-ground-like,A bird with an upland-ground-like shape
+has_shape::swallow-like,A bird with a swallow-like shape
+has_shape::perching-like,A bird with a perching-like shape
+has_back_pattern::solid,A bird with a solid back pattern
+has_back_pattern::spotted,A bird with a spotted back pattern
+has_back_pattern::striped,A bird with a striped back pattern
+has_back_pattern::multi-colored,A bird with a multi-colored back pattern
+has_tail_pattern::solid,A bird with a solid tail pattern
+has_tail_pattern::spotted,A bird with a spotted tail pattern
+has_tail_pattern::striped,A bird with a striped tail pattern
+has_tail_pattern::multi-colored,A bird with a multi-colored tail pattern
+has_belly_pattern::solid,A bird with a solid belly pattern
+has_belly_pattern::spotted,A bird with a spotted belly pattern
+has_belly_pattern::striped,A bird with a striped belly pattern
+has_belly_pattern::multi-colored,A bird with a multi-colored belly pattern
+has_primary_color::blue,A bird with a blue primary color
+has_primary_color::brown,A bird with a brown primary color
+has_primary_color::iridescent,A bird with an iridescent primary color
+has_primary_color::purple,A bird with a purple primary color
+has_primary_color::rufous,A bird with a rufous primary color
+has_primary_color::grey,A bird with a grey primary color
+has_primary_color::yellow,A bird with a yellow primary color
+has_primary_color::olive,A bird with an olive primary color
+has_primary_color::green,A bird with a green primary color
+has_primary_color::pink,A bird with a pink primary color
+has_primary_color::orange,A bird with an orange primary color
+has_primary_color::black,A bird with a black primary color
+has_primary_color::white,A bird with a white primary color
+has_primary_color::red,A bird with a red primary color
+has_primary_color::buff,A bird with a buff primary color
+has_leg_color::blue,A bird with blue legs
+has_leg_color::brown,A bird with brown legs
+has_leg_color::iridescent,A bird with iridescent leg color
+has_leg_color::purple,A bird with purple legs
+has_leg_color::rufous,A bird with rufous leg color
+has_leg_color::grey,A bird with grey legs
+has_leg_color::yellow,A bird with yellow legs
+has_leg_color::olive,A bird with olive-colored legs
+has_leg_color::green,A bird with green legs
+has_leg_color::pink,A bird with pink legs
+has_leg_color::orange,A bird with orange legs
+has_leg_color::black,A bird with black legs
+has_leg_color::white,A bird with white legs
+has_leg_color::red,A bird with red legs
+has_leg_color::buff,A bird with buff-colored legs
+has_bill_color::blue,A bird with a blue bill
+has_bill_color::brown,A bird with a brown bill
+has_bill_color::iridescent,A bird with an iridescent bill color
+has_bill_color::purple,A bird with a purple bill
+has_bill_color::rufous,A bird with a rufous bill color
+has_bill_color::grey,A bird with a grey bill
+has_bill_color::yellow,A bird with a yellow bill
+has_bill_color::olive,A bird with an olive-colored bill
+has_bill_color::green,A bird with a green bill
+has_bill_color::pink,A bird with a pink bill
+has_bill_color::orange,A bird with an orange bill
+has_bill_color::black,A bird with a black bill
+has_bill_color::white,A bird with a white bill
+has_bill_color::red,A bird with a red bill
+has_bill_color::buff,A bird with a buff-colored bill
+has_crown_color::blue,A bird with a blue crown color
+has_crown_color::brown,A bird with a brown crown color
+has_crown_color::iridescent,A bird with an iridescent crown color
+has_crown_color::purple,A bird with a purple crown color
+has_crown_color::rufous,A bird with a rufous crown color
+has_crown_color::grey,A bird with a grey crown color
+has_crown_color::yellow,A bird with a yellow crown color
+has_crown_color::olive,A bird with an olive crown color
+has_crown_color::green,A bird with a green crown color
+has_crown_color::pink,A bird with a pink crown color
+has_crown_color::orange,A bird with an orange crown color
+has_crown_color::black,A bird with a black crown color
+has_crown_color::white,A bird with a white crown color
+has_crown_color::red,A bird with a red crown color
+has_crown_color::buff,A bird with a buff crown color
+has_wing_pattern::solid,A bird with a solid wing pattern
+has_wing_pattern::spotted,A bird with a spotted wing pattern
+has_wing_pattern::striped,A bird with a striped wing pattern
+has_wing_pattern::multi-colored,A bird with a multi-colored wing pattern

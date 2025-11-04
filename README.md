@@ -32,7 +32,7 @@ Tied Diffusion Guidance (TDG) can be tested with tied_diffusion_guidance_demo.py
 python tied_diffusion_guidance_demo.py --prompt1 "a blue jay with a yellow crown" --prompt2 "a bird with a yellow crown"
 ```
 
-### Evaluation Code
+### CBM Evaluation Code
 An example for evaluating a CBM trained 'independently' can be found in CBM_testing/test_ind_cbm_example.py. Before using this:
 
 (1) Several files from the Concept Bottleneck repository must be imported. The CBM repository can be pulled from https://github.com/yewsiang/ConceptBottleneck, and CBM_testing/test_ind_cbm_example.py can be placed inside.
@@ -53,6 +53,21 @@ python CBM_testing/test_ind_cbm_example.py --model_path /path/to/cbm.pth --outpu
 ```
 
 --test_for_compliment is an optional flag, to specify that the removed attribute should be evaluated. Standard behavior without this flag will evaluate the SUB-added attribute.
+
+### MLLM Evaluation Code
+An example of MLLM evaluation code is provided, implemented on CLIP. First, evaluate CLIP on SUB with CBM_testing/test_clip_example.py. 
+```
+python CBM_testing/test_clip_example.py --file_path /path/to/sub_data.csv
+```
+Optionally, --model and --pretrained may be specified, in accordance with open_clip.
+
+This will save a result file to results/menon_vondrick_clip/{args.model}_{args.pretrained}/attribute_clip_our_results.csv. The score can be calculated with CBM_testing/process_clip_outputs_ours.ipynb. 
+
+(1) ATTRIBUTE_FILE and LABEL_PATH must be set, to the same paths as in CBM Evaluation Code. 
+
+(2) Set path_to_baseline_labels to the file saved by python CBM_testing/test_clip_example.py (results/menon_vondrick_clip/{args.model}_{args.pretrained}/attribute_clip_our_results.csv). Set evaluate_a_compliment to False if evaluating the SUB-modified attribute, or True if evaluating the removed attribute. 
+
+The results of this notebook will be printed in the bottom line. 
 
 ### Citation
 ```bibtex
